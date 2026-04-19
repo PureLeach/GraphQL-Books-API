@@ -21,8 +21,8 @@ A simple application on FastAPI + Strawberry GraphQL to retrieve a list of books
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/PureLeach/backend-test-maslov.ai.git
-cd backend-test-maslov.ai
+git clone [https://github.com/PureLeach/backend-test-maslov.ai.git](https://github.com/PureLeach/GraphQL-Books-API.git)
+cd GraphQL-Books-API
 ````
 
 2. **Create and activate a virtual environment:**
